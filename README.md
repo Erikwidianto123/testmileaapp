@@ -20,3 +20,4 @@ b) pengetahuan tentang system, dengan menguasai sebuah system atau fiture, hal i
 c) behavior aplikasi, penting karena ketika seorang QA mebuat schenario untuk testing, supaya tidak membuat schenario yang belum ditentukan behaviornya, tapi ditanyakan ke system analist. Jadi tidak asal membuat schenario.
 
 ## Jawaban no 3
+![image](https://user-images.githubusercontent.com/108724272/177288082-7156b4e1-0e51-4183-ac42-3eed9c4de99c.png)
