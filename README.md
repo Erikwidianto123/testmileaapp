@@ -20,4 +20,22 @@ b) pengetahuan tentang system, dengan menguasai sebuah system atau fiture, hal i
 c) behavior aplikasi, penting karena ketika seorang QA mebuat schenario untuk testing, supaya tidak membuat schenario yang belum ditentukan behaviornya, tapi ditanyakan ke system analist. Jadi tidak asal membuat schenario.
 
 ## Jawaban no 3
+
+list endpoint :
+1. https://apidev.mile.app/v1/org_login
+2. https://apidev.mile.app/v1/login
+
+catatan :
+-belum bisa login karena tidak bisa daftar nya
+
+
+## endpoint org_login
+
 ![image](https://user-images.githubusercontent.com/108724272/177288082-7156b4e1-0e51-4183-ac42-3eed9c4de99c.png)
+
+## endpoint login
+![image](https://user-images.githubusercontent.com/108724272/177288437-bd2d906d-6f8a-4d73-ae3d-29f94abcab58.png)
+
+## hasil test suites katalon
+![image](https://user-images.githubusercontent.com/108724272/177288536-08a748ff-9767-4296-b895-a4f12c846dad.png)
+
